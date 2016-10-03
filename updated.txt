@@ -1,0 +1,22 @@
+Improved code quality.
+Fixed Accent problem.
+Used google fonts.
+Updated carousels and made touchenabled.
+Reduced http requests.
+Reduced CSS/JS files.
+Removed broken urls.
+Resolved jQuery issue.
+Added fixed header for all navigations.
+Added go to top button.
+Added favicon.
+Added Loader.
+Added footer social widget.
+Improved Mobile Navigations.
+Optimized mobiles(responsive) to provide better user experience.
+Updated google maps.
+Updated counters.
+Updated gallery.
+Updated team description popup.
+Removed isotop and used jQuery mixitup.
+
+
